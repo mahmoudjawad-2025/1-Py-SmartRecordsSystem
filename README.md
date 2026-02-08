@@ -23,8 +23,6 @@ A professional Desktop Management Application built with **Python**, **CustomTki
 
 ## 🌟 Key Features
 
-## 🌟 Key Features
-
 - **Modern UI:** A sleek, dark-mode interface powered by **CustomTkinter** with a split-view layout.
 - **Secure Authentication:** User-specific sessions (root access shown) with secure logout.
 - **Customer CRM:** Manage a database of clients with names and phone numbers.
