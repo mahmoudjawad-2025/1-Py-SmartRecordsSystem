@@ -100,8 +100,7 @@ CREATE TABLE IF NOT EXISTS records (
 3. Installation
 Clone the repository and install dependencies:
 ```
-git clone [https://github.com/yourusername/motor-records-system.git](https://github.com/yourusername/motor-records-system.git)
-cd motor-records-system
+git clone https://github.com/mahmoudjawad-2025/py__smart_records_system.git
 python -m pip install customtkinter mysql-connector-python reportlab
 ```
 4. Running the App
@@ -129,4 +128,4 @@ Distributed under the MIT License. See LICENSE for more information.
 ## 🤝 Contact
 Tarik Hamdan - [tarikhamdan42@gmail.com]  <br>
 Mahmoud Abu Alseba'a - [mahmoudjawad02025@gmail.com]  <br>
-Project Link: [https://github.com/mahmoudjawad-2025/Python-Project.git]
+Project Link: [https://github.com/mahmoudjawad-2025/py__smart_records_system.git]
